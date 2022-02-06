@@ -1,0 +1,25 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = UNITED STATES CRYPTONIAN
+
+### Title
+tour.name = U.S THE ROOM
+
+## Media
+
+### Title
+panorama_B7722F70_BA38_4203_41D2_4A5B8E3407F4.label = dark
+video_B0332949_BFFD_00FA_41E7_DB5BC0B32B06.label = united state
+
+## Action
+
+### URL
+LinkBehaviour_AE1B25CF_BA48_461C_41DA_D745C175AE0D.source = https://worldblockchainclub.com/
+LinkBehaviour_D0A213B6_C319_8CC2_41B7_E8CA5DD5DF0F.source = https://polygonscan.com/token/0x45248bd303153d2f84bc89b2c066563e5ec3ebd8
+PopupWebFrameBehaviour_AE22D4D1_BA48_4604_41D2_4F0383BFA1C0.url = https://worldblockchainclub.com/Provenance.html
+PopupWebFrameBehaviour_D096EA38_C317_9FCE_41D8_A29D45E479C9.url = https://rebrand.ly/openseawbc
+PopupWebFrameBehaviour_D20B274F_C336_7442_41DC_EA0FEA130314.url = https://search.wikileaks.org/?query=united+states&exact_phrase=&any_of=&exclude_words=&document_date_start=&document_date_end=&released_date_start=&released_date_end=&new_search=True&order_by=most_relevant#results
+PopupWebFrameBehaviour_D3F51A02_C336_BFC2_41E2_89E3348092EC.url = https://search.wikileaks.org/?query=united+states&exact_phrase=&any_of=&exclude_words=&document_date_start=&document_date_end=&released_date_start=&released_date_end=&new_search=True&order_by=most_relevant#results
